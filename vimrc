@@ -20,3 +20,5 @@ set shiftwidth=4
 syntax on
 set history=1000
 set showmatch
+
+set tw=80
