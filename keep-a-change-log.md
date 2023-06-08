@@ -1,3 +1,5 @@
+* url: https://keepachangelog.com/
+
 # how to keep a changelog
 
 ## rules
