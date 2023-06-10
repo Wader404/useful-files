@@ -1,0 +1,6 @@
+git config [--global] user.name=wade
+git config [--global] user.email=2771518982@qq.com
+git config [--global] init.defaultbranch=main
+git config [--global] merge.tool=vimdiff
+git config [--global] merge.conflictstyle=diff3
+// git config [--global] mergetool.prompt false
