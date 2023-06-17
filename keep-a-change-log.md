@@ -1,6 +1,6 @@
-* url: https://keepachangelog.com/
-
 # how to keep a changelog
+
+* url: https://keepachangelog.com/
 
 ## rules
 
