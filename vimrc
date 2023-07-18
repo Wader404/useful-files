@@ -22,3 +22,4 @@ set history=1000
 set showmatch
 
 set tw=80
+set hidden "切换buffer不提示保存
