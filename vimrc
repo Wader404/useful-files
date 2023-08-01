@@ -23,3 +23,5 @@ set showmatch
 
 set tw=80
 set hidden "切换buffer不提示保存
+
+set ignorecase smartcase "输入的搜索词全部是小写时，进行大小写不敏感搜索而当搜索词至少有1个大写字母时，进行大小写敏感搜索
